@@ -3,6 +3,9 @@ package me.winterfall.array;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/
+ */
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
         List<Integer> noneZeroIdx = new ArrayList<>();
