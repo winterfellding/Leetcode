@@ -1,6 +1,5 @@
 package me.winterfall.array;
 
-import java.util.Arrays;
 
 /**
  * https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/
